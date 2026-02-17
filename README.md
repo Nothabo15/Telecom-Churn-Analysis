@@ -1,6 +1,6 @@
 # Telco Customer Churn: Revenue Risk & Retention Strategy
 
-Analyst: Nothabo Moyo
+Analyst: Nothabo Moyo 
 
 Dataset: 7,043 customer records
 
@@ -73,3 +73,51 @@ Before analysis, a structured SQL data validation framework was implemented:
 - churn_eda_summary → executive dashboard aggregation
 
 This pipeline ensures analytical reliability and production-level reusability.
+
+
+## Executive Dashboard & Key Insights 
+
+
+![Final Dashboard](dashboards/churn_analysis_final_dashboard.png)
+
+## Key Insights
+1. Baseline Churn
+
+ - Overall churn rate: 26.58%
+
+2. Lifecycle Risk Concentration
+
+- 0–1 year customers churn at 48.54%
+
+- Early-life customers represent the highest onboarding risk
+
+- Churn risk declines significantly as tenure increases.
+
+3. Revenue Exposure by Spend Level
+
+High-spend customers:
+
+- Largest segment (3,581 customers)
+
+- Avg Monthly Charge: $90.24
+
+- Churn Rate: 35.38%
+Revenue risk is amplified when high value intersects with early tenure.
+
+4. Contract Stability Impact
+
+- Month-to-month churn rate: 42.71%
+
+- One-year contracts: 11.28%
+
+- Two-year contracts: 2.85%
+
+Contract length is a major stability lever.
+
+5. Lifetime Value Gap
+
+- Avg LTV (Churned Customers): $1,531.80
+
+- Significantly lower realized value compared to retained customers
+
+Early churn erodes long-term profitability.
