@@ -39,19 +39,98 @@ Below are production-level queries that directly inform revenue strategy.
 ### A. Contract-Driven Revenue Exposure 
 ![Contract Analysis](images/contract_analysis.jpeg)  
 Insight:
-Month-to-month contracts materially drive churn and should be viewed as a structural revenue risk. 
- 
+Month-to-month contracts exhibit significantly higher churn rates, positioning contract structure as a primary structural revenue risk. 
+
 ### B. Realized Lifetime Value Gap
 ![Average LTV](images/avg_lifetime_value.jpeg)  
 Business Interpretation:
-Churned customers realize significantly lower LTV, indicating onboarding and early engagement failure. 
+Churned customers realize materially lower lifetime value, indicating early lifecycle engagement failure and unrealized revenue potential.
 
 ### C. Churn Risk by Tenure & Spend Segment
 ![Tenure Spend](images/tenure_group_spend_bucket.jpeg)  
 Insight: 
-- Early-tenure customers on month-to-month contracts.
-- High-spend customers with short tenure.
-- Low-loalty, high-value segments driving disproportionate risk. 
+- Churn risk concentrates in early-tenure, high-spend customers on month-to-month contracts.
+- High-value customers with short tenure create disproportionate revenue volatility.
+- Low-loyalty, high-revenue segments drive the majority of exposure.
+
+## 4. Dashboard & Key Findings
+<p align="center">
+  <img src="dashboards/churn_analysis_final_dashboard.png" width="850">
+</p>
+
+<p align="center">
+  <em>Executive Churn Dashboard – Revenue Risk & Segment Exposure</em>
+</p>
+
+### 1. Early Lifecycle Risk
+X: Customers in their first year churn at 48.54%.  
+Y: Onboarding friction and value realization gap.  
+Z: Revenue loss concentrated in first 12 months.  
+Recommendation: Implement a structured 30-60-90 day onboarding playbook with automated health scoring and proactive outreach. 
+
+### 2. High-Spend Exposure
+X: High-spend customers churn at 35.38%.  
+Y: Premium customers lack perceived value differentiation.  
+Z: Disproportionate revenue erosion from top-paying segment.  
+Recommendation: Introduce loyalty tiers, bundled upgrades, and premium retention incentives. 
+
+### 3. Contract Instability
+X: Month-to-month contracts show 42.71% churn, compared to 11.28% (1-year) and 2.85% (2-years).  
+Y: Low commitment structure enables easy switching behavior.  
+Z: Revenue predictability and forecasting stability are compromised.  
+Recommendation: Offer contract migration incentives (service add-ons over discounts).
+
+### 4. The Highest-Risk Segment 
+X: 0-1 Year + High Spend (68.81% churn) = Highest churn interaction  
+Y: Premium customers fail to perceive early value  
+Z: Largest controllable revenue lever  
+Recommendation: Tag as "Critical Retention Cohort"  
+Trigger: Day-30 executive outreach + proactive billing clarity + loyalty preview 
+
+### 5. Revenue at Risk Is Front Loaded in Early Tenure
+X: Customers in 0-1 year represent $66,022 in monthly revenue at risk, the largest tenure-based exposure.  
+Y: Revenue vulnerability is concentrated at the beginning of customer lifecycle.  
+Z: Reducing early churn has the highest marginal revenue impact.  
+Recommendation: Shift retention budget toward early-lifecycle intervention. 
+
+## 5. Strategic Retention Roadmap 
+| Priority  | Segment | Action | Timeline |
+|-----------|----------|---------|---------|
+| URGENT | 0-1 Year + High Spend | Day-30 proactive outreach | Immediate |  
+| HIGH | Month-to-month (ALL High Spend) | Contract upgrade incentives | This Quarter |
+| MEDIUM | Senior Citizens | Simplified plans & enhanced support | This Quarter |
+| MONITOR | 3+ Year Customers | Loyalty reinforcement & periodic health checks | Annual Review | 
+
+## 6. Financial Framing for Executives 
+Monthly revenue at risk: $139,131  
+If churn is reduced by:  
+- 5% absolute reduction > $83k annual revenue preserved.
+- 10% absolute reduction > $167k annual revenue preserved.
+Retention ROI significantly outweighs acquisition cost.  
+
+## 7. Next Phase (Future Work) 
+- Predictive churn modeling (Logistic Regression)
+- Customer health scoring system
+- A/B testing retention incentives
+- CLV forecasting model
+- Automated churn alert dashboards
+
+## 8. Conclusion 
+Churn is not random. It is predictable, segmentable, and financially quantifiable.  
+The core structural risk lies in:  
+- Early-tenure + High-spend + Month-to-month customers
+Retention strategy must shift from reactive churn reporting to proactive revenue defense.
+
+## 9. Connect With Me 
+LinkedIn:www.linkedin.com/in/nothabo-michelle-moyo-a38840378  
+Portfolio:https://github.com/Nothabo15  
+Email: nothabomoyo07@gmail.com
+
+## 10. Dashboard link 
+[View Executive Dashboard (Tableau Public)](https://public.tableau.com/authoring/ChurnAnalysis_17707279524610/Dashboard1#1)
+
+
+
 
 
 
