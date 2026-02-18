@@ -22,3 +22,15 @@ Revenue risk is structurally concentrated in early-tenure, high-spend, month-to-
 
 Without targeted intervention, revenue erosion will compound through high-value customer attrition.
 
+## 2. Data Integrity & Governance 
+Prior to analysis, a structured data quality framework was implemented to ensure analytical reliability and executive-level confidence:
+- Primary key validation
+- Duplicate detection (0 duplicates found)
+- Categorical standardization
+- Missing value remediation
+- Business logic validation (excluded 11 tenure = 0 anomalies)
+- Feature engineering (spend & life cycle segmentation)
+- Production-ready view creation
+
+Result: 7,032 clean records (99.84% retention), ensuring analytical reliability, reporting accuracy, and executive-grade decision support. 
+
