@@ -5,7 +5,7 @@ Dataset: 7,043 customers | 7,032 validated records (99.84% data integrity)
 Prepared for: VP Customer Success | Chief Revenue Officer | Head of Data | Senior Product Leaders  
 
 ## 1. Executive Summary 
-Revenue risk is structurally concentrated in early-tenure, high-spend, month-to-month customers. Churn is not random, it is predictable and segment-driven.
+$1.67M in annual revenue exposure is concentrated in early-tenure, high-spend, month-to-month customers. Churn is not random, it is predictable and segment-driven.
 
 ### Headline Metrics 
 - Total Customers: 7,032
@@ -31,6 +31,7 @@ Prior to analysis, a structured data quality framework was implemented to ensure
 - Business logic validation (excluded 11 tenure = 0 anomalies)
 - Feature engineering (spend & life cycle segmentation)
 - Production-ready view creation
+
 Result: 7,032 clean records (99.84% retention), ensuring analytical reliability, reporting accuracy, and executive-grade decision support. 
 
 ## 3. Business-Relevant SQL Insights
@@ -62,6 +63,8 @@ Insight:
   <em>Executive Churn Dashboard – Revenue Risk & Segment Exposure</em>
 </p>
 
+#### *The following abbreviations are explained for the insights below:*  
+#### *X - Insight, Y - Drive, Z - Impact* 
 ### 1. Early Lifecycle Risk
 X: Customers in their first year churn at 48.54%.  
 Y: Onboarding friction and value realization gap.  
@@ -98,35 +101,27 @@ Recommendation: Shift retention budget toward early-lifecycle intervention.
 |-----------|----------|---------|---------|
 | URGENT | 0-1 Year + High Spend | Day-30 proactive outreach | Immediate |  
 | HIGH | Month-to-month (ALL High Spend) | Contract upgrade incentives | This Quarter |
-| MEDIUM | Senior Citizens | Simplified plans & enhanced support | This Quarter |
 | MONITOR | 3+ Year Customers | Loyalty reinforcement & periodic health checks | Annual Review | 
 
 ## 6. Financial Framing for Executives 
 Monthly revenue at risk: $139,131  
 If churn is reduced by:  
-- 5% absolute reduction > $83k annual revenue preserved.
+- 5% absolute reduction > $83k annual revenue preserved. 
 - 10% absolute reduction > $167k annual revenue preserved.
 Retention ROI significantly outweighs acquisition cost.  
 
-## 7. Next Phase (Future Work) 
-- Predictive churn modeling (Logistic Regression)
-- Customer health scoring system
-- A/B testing retention incentives
-- CLV forecasting model
-- Automated churn alert dashboards
-
-## 8. Conclusion 
+## 7. Conclusion 
 Churn is not random. It is predictable, segmentable, and financially quantifiable.  
 The core structural risk lies in:  
 - Early-tenure + High-spend + Month-to-month customers
 Retention strategy must shift from reactive churn reporting to proactive revenue defense.
 
-## 9. Connect With Me 
+## 8. Connect With Me 
 LinkedIn:www.linkedin.com/in/nothabo-michelle-moyo-a38840378  
 Portfolio:https://github.com/Nothabo15  
 Email: nothabomoyo07@gmail.com
 
-## 10. Dashboard link 
+## 9. Dashboard link 
 [View Executive Dashboard (Tableau Public)](https://public.tableau.com/authoring/ChurnAnalysis_17707279524610/Dashboard1#1)
 
 
