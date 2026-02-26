@@ -62,38 +62,36 @@ Insight:
 <p align="center">
   <em>Executive Churn Dashboard – Revenue Risk & Segment Exposure</em>
 </p>
-
-#### *The following abbreviations are explained for the insights below:*  
-#### *X - Insight, Y - Drive, Z - Impact* 
+ 
 ### 1. Early Lifecycle Risk
-X: Customers in their first year churn at 48.54%.  
-Y: Onboarding friction and value realization gap.  
-Z: Revenue loss concentrated in first 12 months.  
+Insight: Customers in their first year churn at 48.54%.  
+Drive: Onboarding friction and value realization gap.  
+Impact: Revenue loss concentrated in first 12 months.  
 Recommendation: Implement a structured 30-60-90 day onboarding playbook with automated health scoring and proactive outreach. 
 
 ### 2. High-Spend Exposure
-X: High-spend customers churn at 35.38%.  
-Y: Premium customers lack perceived value differentiation.  
-Z: Disproportionate revenue erosion from top-paying segment.  
+Insight: High-spend customers churn at 35.38%.  
+Drive: Premium customers lack perceived value differentiation.  
+Impact: Disproportionate revenue erosion from top-paying segment.  
 Recommendation: Introduce loyalty tiers, bundled upgrades, and premium retention incentives. 
 
 ### 3. Contract Instability
-X: Month-to-month contracts show 42.71% churn, compared to 11.28% (1-year) and 2.85% (2-years).  
-Y: Low commitment structure enables easy switching behavior.  
-Z: Revenue predictability and forecasting stability are compromised.  
+Insight: Month-to-month contracts show 42.71% churn, compared to 11.28% (1-year) and 2.85% (2-years).  
+Drive: Low commitment structure enables easy switching behavior.  
+Impact: Revenue predictability and forecasting stability are compromised.  
 Recommendation: Offer contract migration incentives (service add-ons over discounts).
 
 ### 4. The Highest-Risk Segment 
-X: 0-1 Year + High Spend (68.81% churn) = Highest churn interaction  
-Y: Premium customers fail to perceive early value  
-Z: Largest controllable revenue lever  
+Insight: 0-1 Year + High Spend (68.81% churn) = Highest churn interaction  
+Drive: Premium customers fail to perceive early value  
+Impact: Largest controllable revenue lever  
 Recommendation: Tag as "Critical Retention Cohort"  
 Trigger: Day-30 executive outreach + proactive billing clarity + loyalty preview 
 
 ### 5. Revenue at Risk Is Front Loaded in Early Tenure
-X: Customers in 0-1 year represent $66,022 in monthly revenue at risk, the largest tenure-based exposure.  
-Y: Revenue vulnerability is concentrated at the beginning of customer lifecycle.  
-Z: Reducing early churn has the highest marginal revenue impact.  
+Insight: Customers in 0-1 year represent $66,022 in monthly revenue at risk, the largest tenure-based exposure.  
+Drive: Revenue vulnerability is concentrated at the beginning of customer lifecycle.  
+Impact: Reducing early churn has the highest marginal revenue impact.  
 Recommendation: Shift retention budget toward early-lifecycle intervention. 
 
 ## 5. Strategic Retention Roadmap 
