@@ -5,7 +5,7 @@ Dataset: 7,043 customers | 7,032 validated records (99.84% data integrity)
 Prepared for: VP Customer Success | Chief Revenue Officer | Head of Data | Senior Product Leaders  
 
 ## 1. Executive Summary 
-$1.67M in annual revenue exposure is concentrated in early-tenure, high-spend, month-to-month customers. Churn is not random, it is predictable and segment-driven.
+$1.67M in annual revenue exposure is concentrated in early-tenure, high-spend, month-to-month customers. Churn is not random, it is identifiable and segment-driven.
 
 ### Headline Metrics 
 - Total Customers: 7,032
@@ -111,7 +111,7 @@ If churn is reduced by:
 Retention ROI significantly outweighs acquisition cost.  
 
 ## 7. Conclusion 
-Churn is not random. It is predictable, segmentable, and financially quantifiable.  
+Churn is not random. It is identifiable, segmentable, and financially quantifiable.  
 The core structural risk lies in:  
 - Early-tenure + High-spend + Month-to-month customers
 Retention strategy must shift from reactive churn reporting to proactive revenue defense.
