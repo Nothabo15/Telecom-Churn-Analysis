@@ -101,6 +101,7 @@ Recommendation: Shift retention budget toward early-lifecycle intervention.
 | HIGH | Month-to-month (ALL High Spend) | Contract upgrade incentives | This Quarter |
 | MONITOR | 3+ Year Customers | Loyalty reinforcement & periodic health checks | Annual Review | 
 
+
 ## 6. Financial Framing for Executives 
 Monthly revenue at risk: $139,131  
 If churn is reduced by:  
