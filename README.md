@@ -120,9 +120,7 @@ Portfolio:https://github.com/Nothabo15
 Email: nothabomoyo07@gmail.com
 
 ## 9. Dashboard link 
-[View Executive Dashboard (Tableau Public)](https://public.tableau.com/authoring/ChurnAnalysis_17707279524610/Dashboard1#1)
-
-
+https://public.tableau.com/app/profile/nothabo.moyo/viz/ChurnAnalysis_17707279524610/Dashboard1
 
 
 
