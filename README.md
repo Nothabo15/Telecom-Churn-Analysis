@@ -1,5 +1,4 @@
-# TELCO CUSTOMER CHURN 
-## Revenue Risk & Retention Strategy
+# Telecom Churn Analysis: $1.67M Revenue at Risk & Retention Strategy
 Prepared by: Nothabo Moyo  
 Dataset: 7,043 customers | 7,032 validated records (99.84% data integrity)    
 Prepared for: VP Customer Success | Chief Revenue Officer | Head of Data | Senior Product Leaders  
@@ -71,7 +70,7 @@ Recommendation: Implement a structured 30-60-90 day onboarding playbook with aut
 
 ### 2. High-Spend Exposure
 Insight: High-spend customers churn at 35.38%.  
-Drive: Premium customers lack perceived value differentiation.  
+Drive: High-spend customers churn at 35.38% despite higher monthly charges, indicating a gap between price and perceived value.  
 Impact: Disproportionate revenue erosion from top-paying segment.  
 Recommendation: Introduce loyalty tiers, bundled upgrades, and premium retention incentives. 
 
